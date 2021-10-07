@@ -1,0 +1,9 @@
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\bin\Debug\netstandard2.0\NutriSalud.Dominio.deps.json
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\bin\Debug\netstandard2.0\NutriSalud.Dominio.dll
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\bin\Debug\netstandard2.0\NutriSalud.Dominio.pdb
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\obj\Debug\netstandard2.0\NutriSalud.Dominio.csprojAssemblyReference.cache
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\obj\Debug\netstandard2.0\NutriSalud.Dominio.AssemblyInfoInputs.cache
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\obj\Debug\netstandard2.0\NutriSalud.Dominio.AssemblyInfo.cs
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\obj\Debug\netstandard2.0\NutriSalud.Dominio.csproj.CoreCompileInputs.cache
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\obj\Debug\netstandard2.0\NutriSalud.Dominio.dll
+C:\Aplicacion\NutriSalud.App\NutriSalud.Dominio\obj\Debug\netstandard2.0\NutriSalud.Dominio.pdb

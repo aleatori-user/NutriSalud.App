@@ -1,0 +1,12 @@
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\bin\Debug\netstandard2.1\NutriSalud.Persistencia.deps.json
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\bin\Debug\netstandard2.1\NutriSalud.Persistencia.dll
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\bin\Debug\netstandard2.1\NutriSalud.Persistencia.pdb
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\bin\Debug\netstandard2.1\NutriSalud.Dominio.dll
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\bin\Debug\netstandard2.1\NutriSalud.Dominio.pdb
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\obj\Debug\netstandard2.1\NutriSalud.Persistencia.csprojAssemblyReference.cache
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\obj\Debug\netstandard2.1\NutriSalud.Persistencia.AssemblyInfoInputs.cache
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\obj\Debug\netstandard2.1\NutriSalud.Persistencia.AssemblyInfo.cs
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\obj\Debug\netstandard2.1\NutriSalud.Persistencia.csproj.CoreCompileInputs.cache
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\obj\Debug\netstandard2.1\NutriSalud.Persistencia.csproj.CopyComplete
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\obj\Debug\netstandard2.1\NutriSalud.Persistencia.dll
+C:\Aplicacion\NutriSalud.App\NutriSalud.Persistencia\obj\Debug\netstandard2.1\NutriSalud.Persistencia.pdb
